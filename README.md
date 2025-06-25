@@ -8,6 +8,50 @@
 ✅ Framer Motion
 ✅ Lenis Scroll
 
-## Preview
+# Supadupa Website Clone 🚀
 
-![Editing supadupa-website-clone_README md at master · devwithzain_supadupa-website-clone and 1 more page - Personal - Microsoft​ Edge 10_13_2024 10_07_11 PM](https://github.com/user-attachments/assets/be079280-7cf8-4c66-b0b9-c5f50e030c9d)
+A modern, fully animated, and responsive clone of the **Supadupa** website — built using **React.js**, **Tailwind CSS**, and advanced scroll-based animations.
+
+## 🔥 Live Demo
+
+Check out the live version here: [https://supadupa-web.vercel.app](https://supadupa-web.vercel.app) *(Update this link after deployment)*
+
+---
+
+## ✨ Features
+
+- ⚡ Smooth scroll and parallax animations
+- 🎯 Pixel-perfect UI clone of the Supadupa landing page
+- 🌙 Dark-theme inspired design
+- 📱 Fully responsive (mobile, tablet, desktop)
+- 💅 Tailwind CSS for utility-first styling
+- 🎬 GSAP / Framer Motion for animations *(if used)*
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js
+- **Styling**: Tailwind CSS
+- **Animations**: GSAP / Framer Motion *(optional)*
+- **Deployment**: Vercel
+
+---
+
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/rajgupta94/supadupa-web.git
+cd supadupa-web
+
+
+🙋‍♂️ Author
+Made with ❤️ by Raj Gupta
+
+> *(You can add screenshots here using this format)*
+
